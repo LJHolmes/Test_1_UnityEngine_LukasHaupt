@@ -18,4 +18,4 @@ Backed Light
 
 ![Backed1](https://github.com/LJHolmes/Test_1_UnityEngine_LukasHaupt/assets/106515155/7d5d39fc-bf5e-4331-96e3-94074a7f435d)
 
-![Backed2](https://github.com/LJHolmes/Test_1_UnityEngine_LukasHaupt/assets/106515155/15c6837b-d29c-4bfa-a463-baf3fbd2ada1)
+![Backed2](https://github.com/LJHolmes/Test_1_UnityEngine_LukasHaupt/assets/106515155/fb80eabb-1b9e-464c-864d-bb3f7a4a3eef)
